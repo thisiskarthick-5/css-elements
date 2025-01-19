@@ -1,0 +1,45 @@
+responsive text
+
+style="font-size:10vw;
+
+#google fonts
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+font-family: "Sofia", sans-serif;
+font-family: "Trirong", serif;
+
+#pairing
+Georgia and Verdana
+Helvetica and Garamond
+Merriweather and Open Sans
+Ubuntu and Lora
+Abril Fatface and Poppins
+Cinzel and Fauna One
+Fjalla One and Libre Baskerville
+Space Mono and Muli
+Spectral and Rubik
+Oswald and Noto Sans
+
+#float
+float - right 
+float -left
+
+exmaple for float
+
+#
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+#
+
